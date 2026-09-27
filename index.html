@@ -743,6 +743,125 @@
             background: #2563eb;
         }
 
+        /* Airport Transit Schedule Styling */
+        .transit-schedule-container {
+            margin-top: 30px;
+        }
+
+        .transit-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 25px;
+            margin-top: 20px;
+        }
+
+        .transit-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            padding: 24px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+        }
+
+        .transit-card.inbound::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(135deg, #3b82f6, #06b6d4);
+        }
+
+        .transit-card.outbound::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(135deg, #f59e0b, #ef4444);
+        }
+
+        .transit-card-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 14px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .transit-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 12px;
+            font-size: 0.92rem;
+        }
+
+        .transit-table th, .transit-table td {
+            padding: 10px 12px;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .transit-table th {
+            color: var(--text-muted);
+            font-weight: 600;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+        }
+
+        .transit-table tr.recommended {
+            background: rgba(255, 94, 54, 0.1);
+            font-weight: 600;
+        }
+
+        .transit-table tr.recommended td:first-child {
+            border-left: 3px solid var(--primary);
+        }
+
+        .slot-badge {
+            display: inline-block;
+            font-size: 0.78rem;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 12px;
+        }
+
+        .slot-badge.rec {
+            background: rgba(255, 94, 54, 0.2);
+            color: var(--primary);
+            border: 1px solid rgba(255, 94, 54, 0.4);
+        }
+
+        .slot-badge.std {
+            background: rgba(255, 255, 255, 0.08);
+            color: var(--text-muted);
+        }
+
+        .light-mode .slot-badge.std {
+            background: rgba(0, 0, 0, 0.06);
+            color: #475569;
+        }
+
+        .transit-tip-box {
+            margin-top: 15px;
+            padding: 12px 14px;
+            background: rgba(0, 0, 0, 0.15);
+            border-radius: 8px;
+            font-size: 0.88rem;
+            line-height: 1.5;
+            color: var(--text-muted);
+        }
+
+        .light-mode .transit-tip-box {
+            background: #f8fafc;
+            color: #475569;
+        }
+
     </style>
 </head>
 <body>
@@ -775,7 +894,6 @@
                 <button class="tab-btn" onclick="switchTab('day3')"><i class="fa-solid fa-calendar-day"></i> Day 3 (11/11)</button>
                 <button class="tab-btn" onclick="switchTab('day4')"><i class="fa-solid fa-star"></i> Day 4 (11/12 放假日)</button>
                 <button class="tab-btn" onclick="switchTab('day5')"><i class="fa-solid fa-calendar-day"></i> Day 5 (11/13)</button>
-                <button class="tab-btn" onclick="switchTab('gourmet')"><i class="fa-solid fa-utensils"></i> 美食與景點</button>
                 <button class="tab-btn" onclick="switchTab('research-nagaoka')"><i class="fa-solid fa-fire"></i> 長岡地區研究</button>
                 <button class="tab-btn" onclick="switchTab('research-yahiko')"><i class="fa-solid fa-torii-gate"></i> 彌彥地區研究</button>
                 <button class="tab-btn" onclick="switchTab('research-niigata')"><i class="fa-solid fa-city"></i> 新潟市區研究</button>
@@ -837,7 +955,7 @@
                 </div>
 
                 <div class="info-card">
-                    <h3><i class="fa-solid fa-plane-down"></i> 回程航班：虎航 IT29</h3>
+                    <h3><i class="fa-solid fa-plane-down"></i> 回程航班：虎航 IT229</h3>
                     <ul class="info-list">
                         <li><strong>日期</strong>：2026 年 11 月 13 日 (週五)</li>
                         <li><strong>起飛</strong>：18:50 新潟機場 (KIJ)</li>
@@ -854,6 +972,124 @@
                         <li><strong>設施</strong>：館內附設男女別人工溫泉大浴場與桑拿。</li>
                         <li><strong>周邊</strong>：對面有 7-11 與全家超商，周邊居酒屋環繞。</li>
                     </ul>
+                </div>
+            </div>
+
+            <!-- Airport Transit Planning Section -->
+            <div class="transit-schedule-container">
+                <h2 style="margin-bottom: 8px; display: flex; align-items: center; gap: 10px;"><i class="fa-solid fa-bus-simple" style="color: var(--primary);"></i> 新潟機場 ⇄ JR 新潟站 交通接駁規劃</h2>
+                <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 20px;">由新潟交通營運，提供機場快線直達巴士（リムジンバス，約 25 分鐘，單程大人 470 円，支援 Suica/IC 卡）及一般路線巴士（約 33 分鐘）。以下為配合虎航 IT228/IT229 班機之來回各 5 個交通時段推薦：</p>
+
+                <div class="transit-grid">
+                    <!-- Inbound Card -->
+                    <div class="transit-card inbound">
+                        <div class="transit-card-title" style="color: #38bdf8;">
+                            <i class="fa-solid fa-plane-arrival"></i> 【去程】新潟機場 ➔ JR 新潟站 (Day 1)
+                        </div>
+                        <p style="font-size: 0.88rem; color: var(--text-muted); margin-bottom: 10px;">
+                            配合 IT228 航班 <strong>18:00</strong> 抵達機場｜上車月台：<strong>機場 1 號月台</strong>
+                        </p>
+                        <table class="transit-table">
+                            <thead>
+                                <tr>
+                                    <th>選項</th>
+                                    <th>機場出發</th>
+                                    <th>抵達新潟站</th>
+                                    <th>車種 / 備註</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>時段 1</td>
+                                    <td><strong>18:20</strong></td>
+                                    <td>18:45</td>
+                                    <td><span class="slot-badge std">直達快線</span> 僅隨身行李者</td>
+                                </tr>
+                                <tr class="recommended">
+                                    <td>時段 2</td>
+                                    <td><strong>18:40</strong></td>
+                                    <td>19:05</td>
+                                    <td><span class="slot-badge rec">最推薦 ⭐</span> 托運行李出關剛好</td>
+                                </tr>
+                                <tr>
+                                    <td>時段 3</td>
+                                    <td><strong>19:00</strong></td>
+                                    <td>19:25</td>
+                                    <td><span class="slot-badge std">直達快線</span> 出關稍有延遲適用</td>
+                                </tr>
+                                <tr>
+                                    <td>時段 4</td>
+                                    <td><strong>19:20</strong></td>
+                                    <td>19:45</td>
+                                    <td><span class="slot-badge std">直達快線</span> 機場悠閒逛街/買SIM卡</td>
+                                </tr>
+                                <tr>
+                                    <td>時段 5</td>
+                                    <td><strong>19:45</strong></td>
+                                    <td>20:10</td>
+                                    <td><span class="slot-badge std">直達快線</span> 晚班備援班次</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="transit-tip-box">
+                            <i class="fa-solid fa-circle-info" style="color: #38bdf8; margin-right: 5px;"></i><strong>抵達下車處</strong>：新潟站南口（步行經站內連通道 3~4 分鐘即可直通萬代口環球景觀飯店）。
+                        </div>
+                    </div>
+
+                    <!-- Outbound Card -->
+                    <div class="transit-card outbound">
+                        <div class="transit-card-title" style="color: #f59e0b;">
+                            <i class="fa-solid fa-plane-departure"></i> 【回程】JR 新潟站 ➔ 新潟機場 (Day 5)
+                        </div>
+                        <p style="font-size: 0.88rem; color: var(--text-muted); margin-bottom: 10px;">
+                            配合 IT229 航班 <strong>18:50</strong> 起飛（16:50 開櫃）｜上車月台：<strong>新潟站南口 5 號月台</strong>
+                        </p>
+                        <table class="transit-table">
+                            <thead>
+                                <tr>
+                                    <th>選項</th>
+                                    <th>新潟站出發</th>
+                                    <th>抵達機場</th>
+                                    <th>車種 / 備註</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>時段 1</td>
+                                    <td><strong>15:30</strong></td>
+                                    <td>15:55</td>
+                                    <td><span class="slot-badge std">直達快線</span> 提早報到/買免稅伴手禮</td>
+                                </tr>
+                                <tr class="recommended">
+                                    <td>時段 2</td>
+                                    <td><strong>16:00</strong></td>
+                                    <td>16:25</td>
+                                    <td><span class="slot-badge rec">最推薦 ⭐</span> 開櫃前半小時到最從容</td>
+                                </tr>
+                                <tr>
+                                    <td>時段 3</td>
+                                    <td><strong>16:25</strong></td>
+                                    <td>16:50</td>
+                                    <td><span class="slot-badge std">直達快線</span> 準時抵達開櫃時間</td>
+                                </tr>
+                                <tr>
+                                    <td>時段 4</td>
+                                    <td><strong>16:50</strong></td>
+                                    <td>17:15</td>
+                                    <td><span class="slot-badge std">直達快線</span> 起飛前 1.5 小時標準線</td>
+                                </tr>
+                                <tr>
+                                    <td>時段 5</td>
+                                    <td><strong>17:15</strong></td>
+                                    <td>17:40</td>
+                                    <td><span class="slot-badge std">直達快線</span> 最後壓線報到班次</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="transit-tip-box">
+                            <i class="fa-solid fa-circle-info" style="color: #f59e0b; margin-right: 5px;"></i><strong>搭乘建議</strong>：強烈建議搭乘 <strong>16:00 或 16:25</strong> 班次，直達航廈大廳門口，免去趕路風險。
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -873,7 +1109,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-plane"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 13:45 - 18:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 下午</span>
                             <span class="item-badge flight">航班</span>
                         </div>
                         <div class="item-title">搭乘虎航 IT228 航班直飛新潟</div>
@@ -885,11 +1121,11 @@
                     <div class="timeline-dot"><i class="fa-solid fa-bus"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 18:40 - 19:05</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 晚上</span>
                             <span class="item-badge transit">交通</span>
                         </div>
                         <div class="item-title">搭乘新潟機場快線巴士至 JR 新潟站</div>
-                        <div class="item-desc">辦理入境提取行李後，於 1 號公車月台搭乘 Limousine Bus 直達新潟站（車程約 25 分鐘，單程 470 日圓）。</div>
+                        <div class="item-desc">辦理入境提取行李後，於 1 號公車月台搭乘 Limousine Bus 直達新潟站（車程約 25 分鐘，單程 470 日圓）。可於「航班 & 飯店」分頁查看 5 個推薦出發時段（建議搭乘 18:40 班次）。</div>
                     </div>
                 </div>
 
@@ -897,7 +1133,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-hotel"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 19:15 - 19:30</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 晚上</span>
                             <span class="item-badge spot">住宿</span>
                         </div>
                         <div class="item-title">環球景觀飯店新潟 Check-in</div>
@@ -909,7 +1145,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-utensils"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 19:40 - 21:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 晚上</span>
                             <span class="item-badge food">美食</span>
                         </div>
                         <div class="item-title">須坂屋そば 新潟駅前店 (片木蕎麥麵)</div>
@@ -935,7 +1171,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-train"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 09:00 - 09:22</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 早上</span>
                             <span class="item-badge transit">交通</span>
                         </div>
                         <div class="item-title">搭乘上越新幹線前往「長岡站」</div>
@@ -947,7 +1183,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-fireworks"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 09:30 - 11:30</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 早上</span>
                             <span class="item-badge spot">景點</span>
                         </div>
                         <div class="item-title">長岡花火博物館 (道の駅 ながおか花火ミュージアム)</div>
@@ -959,7 +1195,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-bowl-rice"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 11:45 - 13:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 中午</span>
                             <span class="item-badge food">美食</span>
                         </div>
                         <div class="item-title">青島食堂 宮內站前店 (長岡生薑醬油拉麵元祖店)</div>
@@ -972,8 +1208,8 @@
                     <div class="timeline-dot"><i class="fa-solid fa-wine-bottle"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 13:15 - 15:30</span>
-                            <span class="item-badge spot">景點/酒藏</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 下午</span>
+                            <span class="item-badge spot/酒藏">景點/酒藏</span>
                         </div>
                         <div class="item-title">攝田屋釀造街 & 吉乃川 酒ミュージアム「醸蔵」</div>
                         <div class="item-desc">漫步宮內攝田屋傳統釀造街，參觀擁有 470 年歷史的吉乃川酒造「釀藏」，體驗 Sake Bar 獨家試飲。</div>
@@ -984,8 +1220,8 @@
                     <div class="timeline-dot"><i class="fa-solid fa-leaf"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 15:45 - 17:30</span>
-                            <span class="item-badge spot">景點/紅葉</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 下午</span>
+                            <span class="item-badge spot/紅葉">景點/紅葉</span>
                         </div>
                         <div class="item-title">越路紅葉園 (もみじ園)</div>
                         <div class="item-desc">搭電車至來迎寺站，漫步樹齡 150~200 年的大地主別墅庭園，欣賞 11 月極致盛開紅葉。</div>
@@ -996,7 +1232,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-fish"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 19:00 - 21:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 晚上</span>
                             <span class="item-badge food">美食</span>
                         </div>
                         <div class="item-title">廻転寿司 弁慶 (ピア万代店)</div>
@@ -1022,7 +1258,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-train"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 08:45 - 10:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 早上</span>
                             <span class="item-badge transit">交通</span>
                         </div>
                         <div class="item-title">搭乘 JR 越後線/彌彥線前往「彌彥站」</div>
@@ -1034,7 +1270,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-leaf"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 10:15 - 12:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 早上</span>
                             <span class="item-badge spot">景點</span>
                         </div>
                         <div class="item-title">彌彥公園 紅葉谷 (Momijidani)</div>
@@ -1046,8 +1282,8 @@
                     <div class="timeline-dot"><i class="fa-solid fa-torii-gate"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 12:15 - 15:30</span>
-                            <span class="item-badge spot">景點/纜車</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 中午至下午</span>
+                            <span class="item-badge spot/纜車">景點/纜車</span>
                         </div>
                         <div class="item-title">彌彥神社參拜 & 彌彥山纜車觀海</div>
                         <div class="item-desc">參拜越後第一大古社，搭纜車直達山頂俯瞰越後平原與日本海及佐渡島。</div>
@@ -1058,7 +1294,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-drumstick-bite"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 19:30 - 21:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 晚上</span>
                             <span class="item-badge food">美食</span>
                         </div>
                         <div class="item-title">とんかつ政ちゃん (政家醬汁豬排丼)</div>
@@ -1084,7 +1320,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-landmark"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 10:15 - 12:30</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 早上</span>
                             <span class="item-badge spot">景點</span>
                         </div>
                         <div class="item-title">北方文化博物館 (Northern Culture Museum)</div>
@@ -1096,7 +1332,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-store"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 14:45 - 17:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 下午</span>
                             <span class="item-badge spot">景點</span>
                         </div>
                         <div class="item-title">古町 (Furumachi) 老街散策 & 白山神社</div>
@@ -1108,7 +1344,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-champagne-glasses"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 18:00 - 20:30</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 晚上</span>
                             <span class="item-badge food">米其林美食</span>
                         </div>
                         <div class="item-title">越後一会 喜ぐち (Kiguchi) 鄉土居酒屋</div>
@@ -1134,7 +1370,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-cookie"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 10:15 - 12:00</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 早上</span>
                             <span class="item-badge spot">體驗</span>
                         </div>
                         <div class="item-title">新潟仙貝王國 (Niigata Senbei Kingdom)</div>
@@ -1146,7 +1382,7 @@
                     <div class="timeline-dot"><i class="fa-solid fa-bag-shopping"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 13:30 - 15:30</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 下午</span>
                             <span class="item-badge spot">購物</span>
                         </div>
                         <div class="item-title">CoCoLo 新潟 站內大買特買</div>
@@ -1158,11 +1394,11 @@
                     <div class="timeline-dot"><i class="fa-solid fa-plane-departure"></i></div>
                     <div class="timeline-content">
                         <div class="item-time-row">
-                            <span class="item-time"><i class="fa-regular fa-clock"></i> 16:00 - 21:25</span>
+                            <span class="item-time"><i class="fa-regular fa-clock"></i> 下午至晚上</span>
                             <span class="item-badge flight">航班/歸途</span>
                         </div>
                         <div class="item-title">搭公車至新潟機場，搭乘 IT229 返回桃園</div>
-                        <div class="item-desc">16:00 於站南搭公車至機場，18:50 起飛，21:25 抵達桃園，結束圓滿的新潟美景美食假期。</div>
+                        <div class="item-desc">於新潟站南口 5 號月台搭乘機場快線巴士直達機場（可於「航班 & 飯店」分頁查看 5 個推薦出發時段，建議搭乘 16:00 或 16:25 班次），18:50 起飛，21:25 抵達桃園，結束圓滿的新潟假期。</div>
                     </div>
                 </div>
             </div>
@@ -1772,6 +2008,22 @@
   </div>
   <div class="integrated-card">
     <div class="integrated-card-top">
+      <div class="integrated-item-title">廻転寿司 弁慶 (ピア万代店 / Pier Bandai)</div>
+      <div class="integrated-badges"><span class="dimension-badge most-famous"><i class="fa-solid fa-tag"></i> 最著名</span> <span class="dimension-badge most-discussed"><i class="fa-solid fa-tag"></i> 討論度最多</span> <span class="source-badge"><i class="fa-solid fa-comments"></i> 情報來源：日文 (Tabelog 3.68 百名店)、中文 (PTT, Dcard, 小紅書)、韓文 (Naver)、英文 (TripAdvisor)</span></div>
+    </div>
+    <p class="integrated-desc">佐渡島直送當季最新鮮活魚！招牌炙燒紅喉魚（のどぐろ）、南蠻蝦與寒鰤魚壽司，被譽為新潟必吃第一旋轉壽司名店，品質媲美高級板前料亭。</p>
+    <div class="integrated-links"><a href="https://sado-benkei.com/" target="_blank" class="research-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> 廻転寿司弁慶 官網</a> ｜ <a href="https://maps.google.com/?q=%E5%BB%BB%E8%BB%A2%E5%BF%BF%E5%8F%B8+%E5%BC%81%E6%85%B6+%E3%83%94%E3%82%A2%E4%B8%87%E4%BB%A3%E5%BA%97" target="_blank" class="research-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Google Map</a></div>
+  </div>
+  <div class="integrated-card">
+    <div class="integrated-card-top">
+      <div class="integrated-item-title">須坂屋そば 新潟駅前店 (片木蕎麥麵・へぎそば)</div>
+      <div class="integrated-badges"><span class="dimension-badge most-famous"><i class="fa-solid fa-tag"></i> 最著名</span> <span class="dimension-badge local"><i class="fa-solid fa-tag"></i> 在地人</span> <span class="source-badge"><i class="fa-solid fa-comments"></i> 情報來源：日文 (Google 4.2⭐ / Tabelog 3.60)、中文 (PTT 日旅板)、韓文 (Naver)、英文</span></div>
+    </div>
+    <p class="integrated-desc">使用布海藻（ふのり）製作的越後傳統高彈力片木蕎麥麵，盛裝於木杉盒中，口感滑順清涼帶勁，搭配現炸舞茸天婦羅與在地地酒極具風味。</p>
+    <div class="integrated-links"><a href="http://suzakaya.bus-s.biz/" target="_blank" class="research-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> 須坂屋そば 官網</a> ｜ <a href="https://maps.google.com/?q=%E9%A0%88%E5%8D%82%E5%B1%8B%E3%81%9D%E3%81%B0+%E6%96%B0%E6%BD%9F%E9%A7%85%E5%89%8D%E5%BA%97" target="_blank" class="research-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Google Map</a></div>
+  </div>
+  <div class="integrated-card">
+    <div class="integrated-card-top">
       <div class="integrated-item-title">Craft Beer Pub Keg / 越後地啤酒 Tap (精釀酒吧)</div>
       <div class="integrated-badges"><span class="dimension-badge trending"><i class="fa-solid fa-tag"></i> 近期最夯</span> <span class="dimension-badge hidden"><i class="fa-solid fa-tag"></i> 隱藏</span> <span class="source-badge"><i class="fa-solid fa-comments"></i> 情報來源：英文 (Reddit r/JapanTravel 蔬食與精釀首推)</span></div>
     </div>
@@ -1788,60 +2040,6 @@
     </ul>
   </div>
 </div>
-
-        <!-- GOURMET & SPOTS TAB -->
-        <div id="gourmet" class="tab-panel">
-            <h2 style="margin-bottom: 20px;"><i class="fa-solid fa-utensils"></i> 嚴選高評分美食清單</h2>
-            <div class="spot-grid">
-                <div class="spot-card">
-                    <div class="spot-header">
-                        <div class="spot-title">青島食堂 宮內站前店</div>
-                        <span class="rating-badge">Google 4.3⭐ / Tabelog 3.68 百名店</span>
-                    </div>
-                    <p class="item-desc">長岡生薑醬油拉麵元祖店，濃郁生薑香氣與絕品叉燒。</p>
-                </div>
-
-                <div class="spot-card">
-                    <div class="spot-header">
-                        <div class="spot-title">吉乃川 酒ミュージアム「醸蔵」</div>
-                        <span class="rating-badge">Google 4.4⭐ / 470年老字號</span>
-                    </div>
-                    <p class="item-desc">大正古倉風格酒館，享用當家極致純米大吟釀試飲。</p>
-                </div>
-
-                <div class="spot-card">
-                    <div class="spot-header">
-                        <div class="spot-title">廻転寿司 弁慶 (ピア万代店)</div>
-                        <span class="rating-badge">Google 4.4⭐ / Tabelog 3.68</span>
-                    </div>
-                    <p class="item-desc">佐渡島直送當日最新鮮黑喉魚炙燒與南蠻蝦壽司。</p>
-                </div>
-
-                <div class="spot-card">
-                    <div class="spot-header">
-                        <div class="spot-title">越後一会 喜ぐち (Kiguchi)</div>
-                        <span class="rating-badge">米其林必比登 / Google 4.4⭐</span>
-                    </div>
-                    <p class="item-desc">古町名店，頂級新潟鄉土料理與地酒居酒屋。</p>
-                </div>
-
-                <div class="spot-card">
-                    <div class="spot-header">
-                        <div class="spot-title">とんかつ政ちゃん (政家豬排)</div>
-                        <span class="rating-badge">Google 4.3⭐ / Tabelog 3.65</span>
-                    </div>
-                    <p class="item-desc">薄脆豬排浸入秘傳醬汁，覆蓋新潟越光米，經典必吃！</p>
-                </div>
-
-                <div class="spot-card">
-                    <div class="spot-header">
-                        <div class="spot-title">須坂屋そば 新潟駅前店</div>
-                        <span class="rating-badge">Google 4.2⭐ / Tabelog 3.60</span>
-                    </div>
-                    <p class="item-desc">使用布海藻製作的高彈力片木蕎麥麵。</p>
-                </div>
-            </div>
-        </div>
 
     </div>
 
