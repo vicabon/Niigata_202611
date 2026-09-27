@@ -76,6 +76,10 @@
   * **彌彥神社**：越後第一神社、著名結緣聖地，參道兩側參天巨木宛如龍貓森林。
     * 🔗 [彌彥神社 官方網頁](https://www.yahiko-jinjya.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%BD%8C%E5%BD%A6%E7%A5%9E%E7%A4%BE)
 * **甜點**：
+  * **米納津屋「雲がくれ (雲隱)」**：Threads 日旅短影音爆紅！以如雲朵般純白蛋白霜酥餅包裹黃豆粉紅豆餡，入口即化，兼具視覺與獨特食感。
+    * 🔗 [米納津屋 資訊](https://www.e-yahiko.com/spot/minatsuhiko/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%B1%B3%E7%B4%8D%E6%B4%A5%E5%B1%8B+%E5%BD%8C%E5%BD%A6)
+  * **誠月堂 彌彥名產「玉兎 (玉兔)」**：小巧粉嫩兔型落雁和菓子，帶著微甜清爽米香，是小紅書與 IG 日本女子旅打卡必買伴手禮。
+    * 🔗 [誠月堂 官方頁面](https://www.e-yahiko.com/spot/seigetsudo/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%AA%A0%E6%9C%88%E5%A0%82+%E5%BD%8C%E5%BD%A6)
   * **分水堂菓子舗「熊貓燒 (枝豆口味)」**：台灣部落客與 Dcard 瘋狂推薦「新潟必吃神級甜點」，內餡是新潟特產毛豆泥，微鹹微甜不膩口。
     * 🔗 [熊貓燒 特產介紹](https://www.e-yahiko.com/spot/bunsyudo/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%88%86%E6%B0%B4%E5%A0%82%E8%8F%93%E5%AD%90%E8%88%97)
 * **美食**：
@@ -245,3 +249,10 @@
 * **美食**：
   * **Kappo Uojin (Local Fishermen's Fish Course)**：Unassuming traditional counter serving the freshest daily catch from Teradomari fishing port.
     * 🔗 [Uojin Review Page](https://tabelog.com/niigata/A1501/A150102/15000892/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%89%B2%E7%83%B9+%E9%AD%9A%E7%94%9A)
+
+---
+
+## 💡 社群實用小撇步與文化交通指南 (Mobile01 / Threads / Facebook / Reddit 彙整)
+* **彌彥神社獨特參拜禮儀（二禮四拍手一禮）**：Mobile01 與 PTT 特別提醒，彌彥神社與出雲大社、宇佐神宮同屬極少數行「二禮四拍手一禮」古禮的神社（比一般神社多拍兩下手），參拜時可特別留意體驗。
+* **11 月中旬夜楓防寒與末班電車**：Facebook 日本賞楓自由行社團強烈警示，彌彥山風強勁，11 月入夜後氣溫常降至 5~8 度，必須配備防風厚外套；此外 JR 彌彥線班次稀疏，自彌彥站返回新潟之末班車約在 20:00~21:00 前後，務必嚴格掌握參觀時間避免滯留。
+* **彌彥山頂日落拍攝機位**：Mobile01 攝影達人推薦於日落前搭乘纜車登頂，能將夕陽染紅的日本海、佐渡島輪廓與越後平原同框入鏡（建議使用 70-200mm 焦段）。

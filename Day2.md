@@ -71,9 +71,13 @@
 
 ### 1. 最著名的景點, 甜點, 美食
 * **景點**：
+  * **長岡市戰災資料館 & 山本五十六紀念館**：Mobile01 與 PTT 軍事歷史愛好者深度推薦，深入了解長岡空襲重生的不死鳥歷史與河井繼之助、山本五十六故里。
+    * 🔗 [山本五十六記念館](http://yamamoto-isoroku.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%B1%B1%E6%9C%AC%E4%BA%94%E5%8D%81%E5%85%AD%E8%A8%98%E5%BF%B5%E9%A4%A8)
   * **長岡煙火博物館 (道の駅 ながおか花火館)**：小紅書與 Dcard 攻略一致推薦的新潟必訪，劇院圓頂播放夏季祭典精華，雨雪天無障礙絕佳室內景點。
     * 🔗 [長岡花火館 繁中導覽](https://nagaokahanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
 * **甜點**：
+  * **ガトウ専科 (Gateau Senka)「長岡花火パイ」**：Threads 與 IG 熱推的長岡象徵伴手禮，以夏夜燦爛煙火為造型的香酥奶油千層派。
+    * 🔗 [ガトウ専科 官方網站](https://gateausenka.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%82%AC%E3%83%88%E3%82%A6%E5%B0%82%E7%A7%91+%E9%95%B7%E5%B2%A1%E6%9D%B1%E5%8F%A3%E5%BA%97)
   * **江口糰子 (江口だんご)**：PTT 日旅板與 IG 台灣部落客必推老店，古色古香的日式庭園與炭烤糰子套餐。
     * 🔗 [江口だんご 官方網站](https://e-dango.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%B1%9F%E5%8F%A3%E3%81%A0%E3%82%93%E3%81%94+%E6%9C%AC%E5%BA%97)
 * **美食**：
@@ -228,6 +232,8 @@
   * **Mimatsu Cream Puffs**：A nostalgic staple for Nagaoka residents picking up quick sweet boxes.
     * 🔗 [Gateau Senka Info](https://gateausenka.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%BE%8E%E6%9D%BE+%E5%A4%A7%E6%89%8B%E9%80%9A%E5%BA%97)
 * **美食**：
+  * **Craft Beer & Sake at Nagaoka Station (Echigo Beer selection)**：Recommended on Reddit r/japanlife as an essential regional craft stop featuring Japan's first microbrewery alongside local ginger dishes.
+    * 🔗 [Echigo Beer Official](https://echigobeer.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%95%B7%E5%B2%A1%E9%A7%85)
   * **Tochio Fried Tofu (Aburaage)**：Super thick, golden crispy tofu cut open and stuffed with green onion and miso, universally recommended as the best beer companion.
     * 🔗 [Niigata Gourmet Page](https://niigata-kankou.or.jp/gourmet/303) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%A0%83%E5%B0%BE%E6%B2%B9%E6%8F%9A%E3%81%92)
 
@@ -241,3 +247,10 @@
 * **美食**：
   * **Ramen Taichi (Miyauchi)**：An insider ramen outpost frequented by local transport drivers and purists craving maximum ginger infusion.
     * 🔗 [Tabelog Link](https://tabelog.com/niigata/A1502/A150201/15008544/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3+%E3%81%9F%E3%81%84%E3%81%A1)
+
+---
+
+## 💡 社群實用小撇步與交通避坑指南 (Mobile01 / Threads / Facebook / Reddit 彙整)
+* **長岡花火館公車時刻**：自 JR 長岡站搭乘中央環狀線公車至「長岡花火館」約需 20 分鐘，平日離峰班距約 30-40 分鐘，建議在車站 2 號月台先拍下返程時刻表以免久候。
+* **生薑醬油拉麵排隊時間**：青島食堂宮內站前店中午時段排隊常達 30-45 分鐘，若遇人潮過長可步行 3 分鐘至「青島食堂 曲新町店」分散等候。
+* **行李寄放**：長岡站內設有大量投幣置物櫃（Suica 可刷），若攜帶大件行李可於新幹線出閘後直接寄存，輕鬆遊歷宮內攝田屋。

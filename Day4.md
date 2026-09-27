@@ -8,6 +8,10 @@
 
 ### 1. 最著名的景點, 甜點, 美食 (定番・名物)
 * **景點**：
+  * **Befco ばかうけ展望室 (朱鷺 Messe 31F)**：Mobile01 與 Reddit 狂推的隱藏神點！位於萬代島 31 樓，地上 125 公尺且「完全免費入場」，360度鳥瞰日本海、信濃川與佐渡島，視野與高度超越 Media Ship。
+    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotel-nikko-niigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
+  * **新潟市漫畫・動漫館 (Niigata Manga Animation Museum)**：Kakao Brunch 與小紅書二次元迷朝聖點，新潟是高橋留美子與和月伸宏誕生地，常設展與體驗設施豐富。
+    * 🔗 [漫畫動漫館 官網](http://panora.tokyo/nmam/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
   * **北方文化博物館 (豪農の館 伊藤邸)**：越後最大豪農宅邸，大廣間（100疊大廳）向外望去的迴遊式庭園在 11 月中旬滿庭楓紅，秋季夜間點燈是 X 與 IG 上的日本秋景代名詞。
     * 🔗 [北方文化博物館 官網](https://hoppou-bunka.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8)
   * **白山神社 & 白山公園**：新潟市總鎮守，著名的結緣與消災古社，緊鄰日本最初的都市公園之一「白山公園」，秋天紅葉拱橋優美。
@@ -24,6 +28,8 @@
   * **旧齋藤家別邸 (古町花街豪商庭園)**：大正時期富商別墅，二階客廳將日式庭園秋景如同繪卷般框取，在 Instagram 與 X 上的攝影構圖瘋傳度極高。
     * 🔗 [旧齋藤家別邸 官網](https://saitouke.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%97%A7%E9%BD%8B%E8%97%A4%E5%AE%B6%E5%88%A5%E9%82%B8)
 * **甜點**：
+  * **菜菓亭「河川蒸氣」**：Threads 與 Dcard 討論度第一的伴手禮之王！鬆軟黑糖蒸蛋糕夾入溫潤小豆鮮奶油，清甜不膩，被譽為「最適合辦公室分享的新潟第一伴手禮」。
+    * 🔗 [菜菓亭 官方網站](https://saikatei.net/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%8F%9C%E8%8F%93%E4%BA%AD+%E6%96%B0%E6%BD%9F)
   * **古町糀製造所 (糀・甘酒專門店)**：將新潟米麴與甘酒結合時令水果、抹茶或柚子製成現代飲品與甘酒冰淇淋，健康與高顏值在女性社群熱議。
     * 🔗 [古町糀製造所 官網](http://www.furumachi-kouji.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8F%A4%E7%94%BA%E7%B3%80%E8%A3%BD%E9%80%A0%E6%89%80)
 * **美食**：
@@ -56,6 +62,10 @@
 
 ### 5. 隱藏的景點, 甜點, 美食 (穴場・隠れ家)
 * **景點**：
+  * **Befco ばかうけ展望室 (朱鷺 Messe 31F)**：Mobile01 與 Reddit 狂推的隱藏神點！位於萬代島 31 樓，地上 125 公尺且「完全免費入場」，360度鳥瞰日本海、信濃川與佐渡島，視野與高度超越 Media Ship。
+    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotel-nikko-niigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
+  * **新潟市漫畫・動漫館 (Niigata Manga Animation Museum)**：Kakao Brunch 與小紅書二次元迷朝聖點，新潟是高橋留美子與和月伸宏誕生地，常設展與體驗設施豐富。
+    * 🔗 [漫畫動漫館 官網](http://panora.tokyo/nmam/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
   * **北方文化博物館 新潟分館 (西大畑)**：豪農家族在市區的茶室別邸，收藏會津八一書法書畫，庭院靜謐，少有旅行團干擾。
     * 🔗 [北方文化博物館 新潟分館](https://hoppou-bunka.com/branch/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8+%E6%96%B0%E6%BD%9F%E5%88%86%E9%A4%A8)
 * **甜點**：
@@ -71,11 +81,17 @@
 
 ### 1. 最著名的景點, 甜點, 美食
 * **景點**：
+  * **Befco ばかうけ展望室 (朱鷺 Messe 31F)**：Mobile01 與 Reddit 狂推的隱藏神點！位於萬代島 31 樓，地上 125 公尺且「完全免費入場」，360度鳥瞰日本海、信濃川與佐渡島，視野與高度超越 Media Ship。
+    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotel-nikko-niigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
+  * **新潟市漫畫・動漫館 (Niigata Manga Animation Museum)**：Kakao Brunch 與小紅書二次元迷朝聖點，新潟是高橋留美子與和月伸宏誕生地，常設展與體驗設施豐富。
+    * 🔗 [漫畫動漫館 官網](http://panora.tokyo/nmam/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
   * **北方文化博物館 (大橋豪農之館)**：小紅書與 PTT 日旅板一致公認「新潟紅葉天花板」，大廣間框景紅葉倒映在漆黑拋光木地板上，拍照絕美。
     * 🔗 [北方文化博物館 繁體中文網頁](https://hoppou-bunka.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8)
   * **白山神社**：新潟市中心香火最鼎盛的神社，粉紅戀愛結緣御守在小紅書爆紅。
     * 🔗 [白山神社 官方網站](https://www.niigatahakusan.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
 * **甜點**：
+  * **菜菓亭「河川蒸氣」**：Threads 與 Dcard 討論度第一的伴手禮之王！鬆軟黑糖蒸蛋糕夾入溫潤小豆鮮奶油，清甜不膩，被譽為「最適合辦公室分享的新潟第一伴手禮」。
+    * 🔗 [菜菓亭 官方網站](https://saikatei.net/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%8F%9C%E8%8F%93%E4%BA%AD+%E6%96%B0%E6%BD%9F)
   * **古町糀製造所 甘酒霜淇淋**：Dcard 美食板大推的非酒精米麴天然甜品，濃縮純米精華。
     * 🔗 [古町糀製造所 官方介紹](http://www.furumachi-kouji.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8F%A4%E7%94%BA%E7%B3%80%E8%A3%BD%E9%80%A0%E6%89%80)
 * **美食**：
@@ -201,6 +217,8 @@
   * **Tanakaya Honten Sasa Dango**：Traditional mugwort rice dumplings wrapped in aromatic bamboo leaves, universally recognized as Niigata's cultural confection.
     * 🔗 [Tanakaya Official](https://www.dangoya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%94%B0%E4%B8%AD%E5%B1%8B%E6%9C%AC%E5%BA%97+%E3%81%BF%E3%81%AA%E3%81%A8%E5%B7%A5%E6%88%BF)
 * **美食**：
+  * **Craft Beer Pub Keg / Echigo Craft Tap**：Enthusiastically praised on Reddit r/JapanTravel for serving Niigata's pioneering microbrews (Echigo Beer & Swan Lake Craft) along with vegetarian-friendly grilled edamame and vegetable tapas.
+    * 🔗 [Craft Beer Pub Keg](https://tabelog.com/niigata/A1501/A150101/15014852/) ｜ 📍 [Google Map](https://maps.google.com/?q=Craft+Beer+Pub+Keg+%E6%96%B0%E6%BD%9F)
   * **Echigo Ichie Kiguchi (Michelin Bib Gourmand)**：Legendary Furumachi tavern acclaimed on food blogs for authentic local sashimi, grilled Murakami salted salmon, and rustic noodle dishes.
     * 🔗 [Tabelog Link](https://tabelog.com/niigata/A1501/A150101/15000030/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%96%9C%E3%81%90%E3%81%A1)
 
@@ -247,3 +265,10 @@
 * **美食**：
   * **Torichu Deep-Fried Half Chicken (Curry-Flavored)**：Tucked-away tavern renowned for crispy skin curry-dusted half chickens served hot with draft beer.
     * 🔗 [Torichu Info](https://tabelog.com/niigata/A1501/A150101/15000078/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%B3%A5%E5%BF%A0+%E6%96%B0%E6%BD%9F)
+
+---
+
+## 💡 社群實用小撇步與市區移動指南 (Mobile01 / Threads / Facebook / Reddit 彙整)
+* **CoCoLo 新潟全館改裝全新開幕**：Threads 與 IG 狂熱推薦，JR 新潟站共構商場 CoCoLo 於 2024 年完成全面改裝，匯聚全縣知名地酒、燕三條金屬器具、仙貝直賣與所有名店美食街，下雨天可全程在室內滿足採購與用餐。
+* **北方文化博物館搭車須知**：前往北方文化博物館需於新潟站萬代口搭乘「秋葉區役所方向」巴士於「上沢海博物館前」下車，平日班次約每小時 1 班，建議提前在新潟站前巴士服務中心確認時刻。
+* **素食與蔬食者指南 (Vegetarian Friendly)**：Reddit 常見提問，新潟傳統日料多以魚介高湯（出汁）為主，蔬食旅客推薦古町糀製造所（米麴健康甘酒飲品）、CoCoLo 或萬代商圈內的蔬食蕎麥麵與現烤越光米糰子。
