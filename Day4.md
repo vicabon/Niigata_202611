@@ -9,13 +9,13 @@
 ### 1. 最著名的景點, 甜點, 美食 (定番・名物)
 * **景點**：
   * **Befco ばかうけ展望室 (朱鷺 Messe 31F)**：Mobile01 與 Reddit 狂推的隱藏神點！位於萬代島 31 樓，地上 125 公尺且「完全免費入場」，360度鳥瞰日本海、信濃川與佐渡島，視野與高度超越 Media Ship。
-    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotel-nikko-niigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
+    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotelnikkoniigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
   * **新潟市漫畫・動漫館 (Niigata Manga Animation Museum)**：Kakao Brunch 與小紅書二次元迷朝聖點，新潟是高橋留美子與和月伸宏誕生地，常設展與體驗設施豐富。
-    * 🔗 [漫畫動漫館 官網](http://panora.tokyo/nmam/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
+    * 🔗 [漫畫動漫館 官網](https://museum.nmam.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
   * **北方文化博物館 (豪農の館 伊藤邸)**：越後最大豪農宅邸，大廣間（100疊大廳）向外望去的迴遊式庭園在 11 月中旬滿庭楓紅，秋季夜間點燈是 X 與 IG 上的日本秋景代名詞。
     * 🔗 [北方文化博物館 官網](https://hoppou-bunka.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8)
   * **白山神社 & 白山公園**：新潟市總鎮守，著名的結緣與消災古社，緊鄰日本最初的都市公園之一「白山公園」，秋天紅葉拱橋優美。
-    * 🔗 [白山神社 官方網站](https://www.niigatahakusan.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
+    * 🔗 [白山神社 官方網站](https://www.niigatahakusanjinja.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
 * **甜點**：
   * **田中屋本店「みなと工房」笹だんご (竹葉糰子)**：新潟代表傳統和菓子，以天然艾草麻糬包裹紅豆餡、竹葉手工編綁炊蒸，香氣撲鼻。
     * 🔗 [田中屋本店 官網](https://www.dangoya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%94%B0%E4%B8%AD%E5%B1%8B%E6%9C%AC%E5%BA%97+%E3%81%BF%E3%81%AA%E3%81%A8%E5%B7%A5%E6%88%BF)
@@ -55,7 +55,7 @@
     * 🔗 [新潟市區觀光散策](https://www.nvcb.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%81%A9%E3%81%A3%E3%81%BA%E3%82%8A%E5%9D%82)
 * **甜點**：
   * **大阪屋 古町本店「流れ梅」與 葡萄紀行**：1858 年創立的越後菓子代表，夏秋季以青梅汁製成的果凍條「流れ梅」與蘭姆葡萄夾心餅深受在地家族喜愛。
-    * 🔗 [大阪屋 官網](https://www.niigata-osakaya.co.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%A4%A7%E9%98%AA%E5%B1%8B+%E5%8F%A4%E7%94%BA%E6%9C%AC%E5%BA%97)
+    * 🔗 [大阪屋 官網](https://www.niigata-osakaya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%A4%A7%E9%98%AA%E5%B1%8B+%E5%8F%A4%E7%94%BA%E6%9C%AC%E5%BA%97)
 * **美食**：
   * **とんかつ太郎 (Tonkatsu Taro)**：古町老街醬汁豬排丼元祖店，在地家庭世代傳承的老味道。
     * 🔗 [とんかつ太郎 介紹](https://tabelog.com/niigata/A1501/A150101/15000012/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E5%A4%AA%E9%83%8E+%E6%96%B0%E6%BD%9F)
@@ -63,11 +63,11 @@
 ### 5. 隱藏的景點, 甜點, 美食 (穴場・隠れ家)
 * **景點**：
   * **Befco ばかうけ展望室 (朱鷺 Messe 31F)**：Mobile01 與 Reddit 狂推的隱藏神點！位於萬代島 31 樓，地上 125 公尺且「完全免費入場」，360度鳥瞰日本海、信濃川與佐渡島，視野與高度超越 Media Ship。
-    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotel-nikko-niigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
+    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotelnikkoniigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
   * **新潟市漫畫・動漫館 (Niigata Manga Animation Museum)**：Kakao Brunch 與小紅書二次元迷朝聖點，新潟是高橋留美子與和月伸宏誕生地，常設展與體驗設施豐富。
-    * 🔗 [漫畫動漫館 官網](http://panora.tokyo/nmam/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
+    * 🔗 [漫畫動漫館 官網](https://museum.nmam.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
   * **北方文化博物館 新潟分館 (西大畑)**：豪農家族在市區的茶室別邸，收藏會津八一書法書畫，庭院靜謐，少有旅行團干擾。
-    * 🔗 [北方文化博物館 新潟分館](https://hoppou-bunka.com/branch/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8+%E6%96%B0%E6%BD%9F%E5%88%86%E9%A4%A8)
+    * 🔗 [北方文化博物館 新潟分館](https://hoppou-bunka.com/niigatabranch/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8+%E6%96%B0%E6%BD%9F%E5%88%86%E9%A4%A8)
 * **甜點**：
   * **喫茶ニュー古町**：隱身古町巷弄由昭和老酒店改建的復古夜喫茶，厚片披薩吐司、懷舊哈密瓜冰淇淋蘇打與特調布丁。
     * 🔗 [喫茶ニュー古町 資訊](https://tabelog.com/niigata/A1501/A150101/15021571/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%96%AB%E8%8C%B6%E3%83%8B%E3%83%A5%E3%83%BC%E5%8F%A4%E7%94%BA)
@@ -82,13 +82,13 @@
 ### 1. 最著名的景點, 甜點, 美食
 * **景點**：
   * **Befco ばかうけ展望室 (朱鷺 Messe 31F)**：Mobile01 與 Reddit 狂推的隱藏神點！位於萬代島 31 樓，地上 125 公尺且「完全免費入場」，360度鳥瞰日本海、信濃川與佐渡島，視野與高度超越 Media Ship。
-    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotel-nikko-niigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
+    * 🔗 [Befco ばかうけ展望室 官網](https://www.hotelnikkoniigata.jp/observatory/) ｜ 📍 [Google Map](https://maps.google.com/?q=Befco%E3%81%B0%E3%81%8B%E3%81%86%E3%81%91%E5%B1%95%E6%9C%9B%E5%AE%A4)
   * **新潟市漫畫・動漫館 (Niigata Manga Animation Museum)**：Kakao Brunch 與小紅書二次元迷朝聖點，新潟是高橋留美子與和月伸宏誕生地，常設展與體驗設施豐富。
-    * 🔗 [漫畫動漫館 官網](http://panora.tokyo/nmam/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
+    * 🔗 [漫畫動漫館 官網](https://museum.nmam.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E5%B8%82%E6%BC%AB%E7%94%BB%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E6%83%85%E5%A0%B1%E9%A4%A8)
   * **北方文化博物館 (大橋豪農之館)**：小紅書與 PTT 日旅板一致公認「新潟紅葉天花板」，大廣間框景紅葉倒映在漆黑拋光木地板上，拍照絕美。
     * 🔗 [北方文化博物館 繁體中文網頁](https://hoppou-bunka.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8)
   * **白山神社**：新潟市中心香火最鼎盛的神社，粉紅戀愛結緣御守在小紅書爆紅。
-    * 🔗 [白山神社 官方網站](https://www.niigatahakusan.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
+    * 🔗 [白山神社 官方網站](https://www.niigatahakusanjinja.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
 * **甜點**：
   * **菜菓亭「河川蒸氣」**：Threads 與 Dcard 討論度第一的伴手禮之王！鬆軟黑糖蒸蛋糕夾入溫潤小豆鮮奶油，清甜不膩，被譽為「最適合辦公室分享的新潟第一伴手禮」。
     * 🔗 [菜菓亭 官方網站](https://saikatei.net/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%8F%9C%E8%8F%93%E4%BA%AD+%E6%96%B0%E6%BD%9F)
@@ -104,7 +104,7 @@
     * 🔗 [舊齋藤家別邸 官方網頁](https://saitouke.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%97%A7%E9%BD%8B%E8%97%A4%E5%AE%B6%E5%88%A5%E9%82%B8)
 * **甜點**：
   * **中条たまご直売店 (雞蛋甜點專門店)**：太陽之子頂級雞蛋製作的焦糖布丁與厚燒玉子三明治，小紅書新潟伴手禮熱榜。
-    * 🔗 [中条たまご 官網](https://nakajo-tamago.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E4%B8%AD%E6%9D%A1%E3%81%9F%E3%81%BE%E3%81%94%E7%9B%B4%E5%A3%B2%E5%BA%97)
+    * 🔗 [中条たまご 官網](https://cafe.nakajo-tamago.co.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E4%B8%AD%E6%9D%A1%E3%81%9F%E3%81%BE%E3%81%94%E7%9B%B4%E5%A3%B2%E5%BA%97)
 * **美食**：
   * **萬代巴士站咖哩 (黄色いカレー)**：PTT 旅人必打卡的魔性懷舊咖哩，微辣濃稠，下飛機直奔一碗的大眾平民美食。
     * 🔗 [萬代咖哩 介紹](https://tabelog.com/niigata/A1501/A150101/15000251/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E4%B8%87%E4%BB%A3%E3%81%9D%E3%81%B0)
@@ -134,7 +134,7 @@
 ### 5. 隱藏的景點, 甜點, 美食
 * **景點**：
   * **湊稲荷神社 (旋轉狛犬願望神社)**：古町巷弄小神社，狛犬底座可手動旋轉，許願祈福方式獨特。
-    * 🔗 [湊稲荷神社 介紹](https://niigata-kankou.or.jp/spot/8542) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%B9%8A%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE)
+    * 🔗 [湊稲荷神社 介紹](https://www.nvcb.or.jp/spot/detail_1135.html) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%B9%8A%E7%A8%B2%E8%8D%B7%E7%A5%9E%E7%A4%BE)
 * **甜點**：
   * **クレープリー・ル・ポンマリ (法式可麗餅專賣)**：古町西堀粉紅小洋房，正統法式蕎麥粉鹹薄餅與焦糖蘋果可麗餅。
     * 🔗 [Le Pont Marie 介紹](https://tabelog.com/niigata/A1501/A150101/15012588/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AB%E3%83%9D%E3%83%B3%E3%83%9E%E3%83%AA+%E6%96%B0%E6%BD%9F)
@@ -151,7 +151,7 @@
   * **북방문화박물관 (Northern Culture Museum - 호농의 저택)**：Naver 部落格封為「니가타 단풍 여행의 정점」，大청마루에서 바라보는 액자 단풍 정원의 압도적 뷰.
     * 🔗 [박물관 공식 사이트](https://hoppou-bunka.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8)
   * **하쿠산 신사 (Hakusan Shrine)**：니가타 시내 총진수, 아름다운 정원과 인연 맺기 부적으로 유명한 신사.
-    * 🔗 [하쿠산 신사 안내](https://www.niigatahakusan.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
+    * 🔗 [하쿠산 신사 안내](https://www.niigatahakusanjinja.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
 * **甜點**：
   * **다나카야 본점 사사당고 (Sasa Dango)**：대나무 잎 향이 듬뿍 배어있는 전통 쑥떡.
     * 🔗 [다나카야 본점](https://www.dangoya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%94%B0%E4%B8%AD%E5%B1%8B%E6%9C%AC%E5%BA%97+%E3%81%BF%E3%81%AA%E3%81%A8%E5%B7%A5%E6%88%BF)
@@ -187,7 +187,7 @@
     * 🔗 [니가타 관광 정보](https://www.nvcb.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%90%AC%E4%BB%A3%E6%A9%8B)
 * **甜點**：
   * **오사카야 후루마치 본점 과자**：니가타 현지인들이 명절이나 선물용으로 즐겨 찾는 전통 양과자점.
-    * 🔗 [오사카야 공식](https://www.niigata-osakaya.co.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%A4%A7%E9%98%AA%E5%B1%8B+%E5%8F%A4%E7%94%BA%E6%9C%AC%E5%BA%97)
+    * 🔗 [오사카야 공식](https://www.niigata-osakaya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%A4%A7%E9%98%AA%E5%B1%8B+%E5%8F%A4%E7%94%BA%E6%9C%AC%E5%BA%97)
 * **美食**：
   * **돈카츠 타로 (타레카츠)**：원조 타레카츠동의 바삭하고 짭조름한 매력.
     * 🔗 [타로 안내](https://tabelog.com/niigata/A1501/A150101/15000012/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E5%A4%AA%E9%83%8E)
@@ -195,7 +195,7 @@
 ### 5. 隱藏的景點, 甜點, 美食 (숨은 명소/히든 스팟)
 * **景點**：
   * **북방문화박물관 니가타 분관 (니시오하타)**：시내 한복판 숲속에 숨겨진 조용한 다도 저택 정원.
-    * 🔗 [분관 안내](https://hoppou-bunka.com/branch/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8+%E6%96%B0%E6%BD%9F%E5%88%86%E9%A4%A8)
+    * 🔗 [분관 안내](https://hoppou-bunka.com/niigatabranch/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8+%E6%96%B0%E6%BD%9F%E5%88%86%E9%A4%A8)
 * **甜點**：
   * **카페 피에니 (Pieni)**：아기자기한 라떼 아트와 수제 초콜릿 쉬폰 케이크가 숨겨진 감성 카페.
     * 🔗 [피에니 인스타그램](https://www.instagram.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%81%B4%E3%81%88%E3%81%AB+%E6%96%B0%E6%BD%9F)
@@ -212,7 +212,7 @@
   * **Northern Culture Museum (Hoppo Bunka Hakubutsukan)**：The quintessential wealthy landlord estate of Echigo, world-famous for its massive 100-tatami banquet room framing a serene autumn Zen garden.
     * 🔗 [Official Museum Site](https://hoppou-bunka.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8)
   * **Hakusan Shrine & Hakusan Park**：Central Shinto sanctuary in Niigata with centuries of guardian history and picturesque garden bridges.
-    * 🔗 [Official Shrine Site](https://www.niigatahakusan.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
+    * 🔗 [Official Shrine Site](https://www.niigatahakusanjinja.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%96%B0%E6%BD%9F%E7%99%BD%E5%B1%B1%E7%A5%9E%E7%A4%BE)
 * **甜點**：
   * **Tanakaya Honten Sasa Dango**：Traditional mugwort rice dumplings wrapped in aromatic bamboo leaves, universally recognized as Niigata's cultural confection.
     * 🔗 [Tanakaya Official](https://www.dangoya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%94%B0%E4%B8%AD%E5%B1%8B%E6%9C%AC%E5%BA%97+%E3%81%BF%E3%81%AA%E3%81%A8%E5%B7%A5%E6%88%BF)
@@ -250,7 +250,7 @@
     * 🔗 [Tourism Niigata](https://www.nvcb.or.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%90%AC%E4%BB%A3%E6%A9%8B)
 * **甜點**：
   * **Osakaya Furumachi Honten Confections**：A historic pillar of Niigata confectionery beloved for plum jelly treats and rum-raisin wafers.
-    * 🔗 [Osakaya Official](https://www.niigata-osakaya.co.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%A4%A7%E9%98%AA%E5%B1%8B+%E5%8F%A4%E7%94%BA%E6%9C%AC%E5%BA%97)
+    * 🔗 [Osakaya Official](https://www.niigata-osakaya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%A4%A7%E9%98%AA%E5%B1%8B+%E5%8F%A4%E7%94%BA%E6%9C%AC%E5%BA%97)
 * **美食**：
   * **Tonkatsu Taro Tare-Katsu**：The original post-war creator of the sweetened soy tare tonkatsu bowl.
     * 🔗 [Taro Tabelog Review](https://tabelog.com/niigata/A1501/A150101/15000012/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E5%A4%AA%E9%83%8E)
@@ -258,7 +258,7 @@
 ### 5. 隱藏的景點, 甜點, 美食 (Hidden Gems)
 * **景點**：
   * **Northern Culture Museum Niigata Branch (Nishi-Ohata)**：Lesser-known downtown annex villa featuring quiet mossy gardens and rare art calligraphy.
-    * 🔗 [Branch Info](https://hoppou-bunka.com/branch/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8+%E6%96%B0%E6%BD%9F%E5%88%86%E9%A4%A8)
+    * 🔗 [Branch Info](https://hoppou-bunka.com/niigatabranch/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8C%97%E6%96%B9%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A4%A8+%E6%96%B0%E6%BD%9F%E5%88%86%E9%A4%A8)
 * **甜點**：
   * **Kissaten New Furumachi (喫茶ニュー古町)**：Hidden retro showa-style cocktail & coffee lounge serving melon cream sodas and rich custard puddings late into the night.
     * 🔗 [Tabelog Info](https://tabelog.com/niigata/A1501/A150101/15021571/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%96%AB%E8%8C%B6%E3%83%8B%E3%83%A5%E3%83%BC%E5%8F%A4%E7%94%BA)

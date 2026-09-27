@@ -9,9 +9,9 @@
 ### 1. 最著名的景點, 甜點, 美食 (定番・名物)
 * **景點**：
   * **道の駅 ながおか花火館 (長岡花火博物館)**：長岡代表性象徵，圓頂巨幕影院體感「長岡復興祈願花火・鳳凰花火」與「正三尺玉」，X 與 IG 上的定番必訪地標。
-    * 🔗 [官方網站](https://nagaokahanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
+    * 🔗 [官方網站](https://nagaoka-hanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
   * **摂田屋（せったや）老街 & 吉乃川 醸蔵 (JOHZO)**：470 年歷史釀造町，漫步黑瓦古街，吉乃川酒藏附設 SAKE BAR。
-    * 🔗 [吉乃川 醸蔵 官網](https://yosinogawa.co.jp/johzo/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%85%BF%E8%44%B5)
+    * 🔗 [吉乃川 醸蔵 官網](https://yosinogawa.co.jp/johgura/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%86%B8%E8%94%B5)
 * **甜點**：
   * **江口だんご 本店 (Eguchi Dango)**：明治 35 年創業的古民家移築和菓子名店，招牌「五色団子」（紅豆、芝麻、抹茶、黃豆粉、醬油）與草餅。
     * 🔗 [江口だんご 官網](https://e-dango.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%B1%9F%E5%8F%A3%E3%81%A0%E3%82%93%E3%81%94+%E6%9C%AC%E5%BA%97)
@@ -25,7 +25,7 @@
     * 🔗 [長岡市觀光導覽 (もみじ園)](https://www.city.nagaoka.niigata.jp/kankou/miru/kouen/momiji.html) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%B6%8A%E8%B7%AF%E3%82%82%E3%81%BF%E3%81%98%E5%9C%92)
 * **甜點**：
   * **加勢牧場 わしま本店 (Kasei Farm)**：以國內極稀有的「純血ガンジー牛（金吉牛・貴族之牛）」黃金牛奶製作的霜淇淋與香濃布丁，SNS 討論度極高。
-    * 🔗 [加勢牧場 官網](https://kaseibokujo.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8A%A0%E5%8B%A2%E7%89%A7%E5%A0%B4+%E3%82%8F%E3%81%97%E3%81%BE%E6%9C%AC%E5%BA%97)
+    * 🔗 [加勢牧場 官網](https://kasebokujo.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8A%A0%E5%8B%A2%E7%89%A7%E5%A0%B4+%E3%82%8F%E3%81%97%E3%81%BE%E6%9C%AC%E5%BA%97)
 * **美食**：
   * **イタリアン（フレンド Friend 喜多町店 / 本店）**：長岡流「Friend 義大利麵」（中華炒麵淋上肉醬，配紅薑或煎餃），與新潟市三日月齊名、長岡人極度擁護的靈魂速食，在社群掀起派系討論。
     * 🔗 [長岡フレンド 官網](http://www.e-friend.co.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89+%E5%96%9C%E5%A4%9A%E7%94%BA%E5%BA%97)
@@ -41,18 +41,18 @@
     * 🔗 [Parisパイ 資訊頁](https://tabelog.com/niigata/A1502/A150201/15012586/) ｜ 📍 [Google Map](https://maps.google.com/?q=Paris%E3%83%91%E3%82%A4+%E9%95%B7%E5%B2%A1)
 * **美食**：
   * **レストラン ナカタ (Restaurant Nakata) - 洋風カツ丼**：將長岡洋風豬排丼分為「甘口多蜜醬」與「酸甜番茄醬」兩派，店內辣度挑戰（高達50倍）常出現在 TikTok / YouTube 探店影片。
-    * 🔗 [レストラン ナカタ 官網](https://restaurant-nakata.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3+%E3%83%8A%E3%82%AC%E3%82%BF)
+    * 🔗 [レストラン ナカタ 官網](https://restaurant-nakata.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3+%E3%83%8A%E3%82%AB%E3%82%BF)
 
 ### 4. 在地人的景點, 甜點, 美食 (ローカル御用達)
 * **景點**：
   * **福島江（ふくしまえ）水路櫻紅步道**：貫穿市中心的運河步道，春櫻秋葉，是在地居民散步慢跑的靜謐之地。
-    * 🔗 [長岡觀光觀光導覽 (福島江)](https://www.city.nagaoka.niigata.jp/kankou/miru/shizen/fukushimagawa.html) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%A6%8F%E5%B3%B6%E6%B1%9F+%E9%95%B7%E5%B2%A1)
+    * 🔗 [長岡觀光觀光導覽 (福島江)](https://niigata-kankou.or.jp/spot/10763) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%A6%8F%E5%B3%B6%E6%B1%9F+%E9%95%B7%E5%B2%A1)
 * **甜點**：
   * **美松（大手通店）シュークリーム**：長岡在地無人不曉的老牌洋菓子，每年特定月份推出「サンキューまつり（39日圓泡芙祭）」引爆市民徹夜排隊排數百人。
     * 🔗 [ガトウ専科 / 美松 官網](https://gateausenka.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%BE%8E%E6%9D%BE+%E5%A4%A7%E6%89%8B%E9%80%9A%E5%BA%97)
 * **美食**：
   * **安兵衛（長岡站前）/ 越後の蔵 あさひ山**：在地上班族下班必訪居酒屋，搭配朝日山・久保田清酒，品嚐栃尾油揚豆腐與當令鄉土料理。
-    * 🔗 [越後の蔵 あさひ山 官網](https://asahiya-nagaoka.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%B6%8A%E5%BE%8C%E3%81%AE%E8%94%B5+%E3%81%82%E3%81%95%E3%81%B2%E5%B1%B1)
+    * 🔗 [越後の蔵 あさひ山 官網](https://www.asahi-shuzo.co.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%B6%8A%E5%BE%8C%E3%81%AE%E8%94%B5+%E3%81%82%E3%81%95%E3%81%B2%E5%B1%B1)
 
 ### 5. 隱藏的景點, 甜點, 美食 (穴場・隠れ家)
 * **景點**：
@@ -74,7 +74,7 @@
   * **長岡市戰災資料館 & 山本五十六紀念館**：Mobile01 與 PTT 軍事歷史愛好者深度推薦，深入了解長岡空襲重生的不死鳥歷史與河井繼之助、山本五十六故里。
     * 🔗 [山本五十六記念館](http://yamamoto-isoroku.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%B1%B1%E6%9C%AC%E4%BA%94%E5%8D%81%E5%85%AD%E8%A8%98%E5%BF%B5%E9%A4%A8)
   * **長岡煙火博物館 (道の駅 ながおか花火館)**：小紅書與 Dcard 攻略一致推薦的新潟必訪，劇院圓頂播放夏季祭典精華，雨雪天無障礙絕佳室內景點。
-    * 🔗 [長岡花火館 繁中導覽](https://nagaokahanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
+    * 🔗 [長岡花火館 繁中導覽](https://nagaoka-hanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
 * **甜點**：
   * **ガトウ専科 (Gateau Senka)「長岡花火パイ」**：Threads 與 IG 熱推的長岡象徵伴手禮，以夏夜燦爛煙火為造型的香酥奶油千層派。
     * 🔗 [ガトウ専科 官方網站](https://gateausenka.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%82%AC%E3%83%88%E3%82%A6%E5%B0%82%E7%A7%91+%E9%95%B7%E5%B2%A1%E6%9D%B1%E5%8F%A3%E5%BA%97)
@@ -90,10 +90,10 @@
     * 🔗 [新潟觀光情報 (越路もみじ園)](https://niigata-kankou.or.jp/spot/8617) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%B6%8A%E8%B7%AF%E3%82%82%E3%81%BF%E3%81%98%E5%9C%92)
 * **甜點**：
   * **吉乃川 醸蔵 限定「甘酒霜淇淋」& 吟釀酒雪糕**：酒鬼與甜點控雙重滿足，Dcard 甜點版常被討論的微醺甜品。
-    * 🔗 [吉乃川 醸蔵 官方設施介紹](https://yosinogawa.co.jp/johzo/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%85%BF%E8%44%B5)
+    * 🔗 [吉乃川 醸蔵 官方設施介紹](https://yosinogawa.co.jp/johgura/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%86%B8%E8%94%B5)
 * **美食**：
   * **長岡洋風炸豬排丼 (洋風カツ丼)**：PTT 上常被拿來與「新潟醬汁豬排丼 (タレかつ丼)」做比較引起兩派爭論的經典特色料理。
-    * 🔗 [長岡洋風炸豬排 介紹](https://www.city.nagaoka.niigata.jp/kankou/gurume/katsudon.html) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3+%E3%83%8A%E3%82%AC%E3%82%BF)
+    * 🔗 [長岡洋風炸豬排 介紹](https://www.city.nagaoka.niigata.jp/kankou/gurume/katsudon.html) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3+%E3%83%8A%E3%82%AB%E3%82%BF)
 
 ### 3. 近期最夯的景點, 甜點, 美食
 * **景點**：
@@ -104,7 +104,7 @@
     * 🔗 [越乃雪本舗 大和屋 產品頁](https://www.koshinoyuki-yamatoya.co.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%B6%8A%E4%B9%83%E9%9B%AA%E6%9C%AC%E8%88%97+%E5%A4%A7%E5%92%8C%E5%B1%8B)
 * **美食**：
   * **吉乃川 SAKE BAR 盲飲評測組合**：Threads 許多年輕人分享 1,000 日圓即可品嚐多款未過濾生原酒與頂級純米大吟釀的超高 CP 值體驗。
-    * 🔗 [SAKE BAR 菜單資訊](https://yosinogawa.co.jp/johzo/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%85%BF%E8%44%B5)
+    * 🔗 [SAKE BAR 菜單資訊](https://yosinogawa.co.jp/johgura/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%86%B8%E8%94%B5)
 
 ### 4. 在地人的景點, 甜點, 美食
 * **景點**：
@@ -123,7 +123,7 @@
     * 🔗 [蒼柴神社 介紹](https://niigata-kankou.orjp/spot/8624) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%92%BC%E6%9F%B4%E7%A5%9E%E7%A4%BE)
 * **甜點**：
   * **加勢牧場的鮮奶生泡芙**：隱身鄉間農場，使用純種金吉牛生乳製作，奶味濃郁回甘。
-    * 🔗 [加勢牧場 甜點介紹](https://kaseibokujo.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8A%A0%E5%8B%A2%E7%89%A7%E5%A0%B4+%E3%82%8F%E3%81%97%E3%81%BE%E6%9C%AC%E5%BA%97)
+    * 🔗 [加勢牧場 甜點介紹](https://kasebokujo.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8A%A0%E5%8B%A2%E7%89%A7%E5%A0%B4+%E3%82%8F%E3%81%97%E3%81%BE%E6%9C%AC%E5%BA%97)
 * **美食**：
   * **長岡生薑醬油拉麵・「たいち (Taichi)」**：在地熟客評分常超越青島食堂的隱藏名店，生薑香氣更加濃烈霸道。
     * 🔗 [ラーメン たいち Tabelog](https://tabelog.com/niigata/A1502/A150201/15008544/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3+%E3%81%9F%E3%81%84%E3%81%A1+%E9%95%B7%E5%B2%A1)
@@ -135,7 +135,7 @@
 ### 1. 最著名的景點, 甜點, 美食 (유명 명소/맛집)
 * **景點**：
   * **나가오카 불꽃놀이 박물관 (Nagaoka Hanabi Museum)**：Naver 上介紹新潟必去的科技互動場館，被稱為「일본 3대 불꽃놀이의 감동을 실내에서 느끼는 곳」。
-    * 🔗 [박물관 안내](https://nagaokahanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
+    * 🔗 [박물관 안내](https://nagaoka-hanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
 * **甜點**：
   * **에구치 당고 본점 (Eguchi Dango)**：韓方部落客稱之為「고택의 정취를 느끼는 사사당고・오색당고 성지」。
     * 🔗 [에구치 당고 공식](https://e-dango.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%B1%9F%E5%8F%A3%E3%81%A0%E3%82%93%E3%81%94+%E6%9C%AC%E5%BA%97)
@@ -146,13 +146,13 @@
 ### 2. 討論度最多的景點, 甜點, 美食 (SNS 화제/인기)
 * **景點**：
   * **요시노가와 사케 뮤지엄 죠조 (Yoshinogawa Johzo)**：Naver 日本酒同好會熱門討論地，擁有 470 年傳統，試飲吧台現代簡約感強烈。
-    * 🔗 [죠조 공식 사이트](https://yosinogawa.co.jp/johzo/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%85%BF%E8%44%B5)
+    * 🔗 [죠조 공식 사이트](https://yosinogawa.co.jp/johgura/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%86%B8%E8%94%B5)
 * **甜點**：
   * **사케 젤라또 & 아마자케 아이스크림 (Sake Gelato)**：無酒精甜酒甘酒製作，在韓國女性遊客部落格中高頻率打卡。
-    * 🔗 [디저트 정보](https://yosinogawa.co.jp/johzo/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%85%BF%E8%44%B5)
+    * 🔗 [디저트 정보](https://yosinogawa.co.jp/johgura/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%86%B8%E8%94%B5)
 * **美食**：
   * **토치오 유부구이 (栃尾 油揚げ - Tochio Fried Tofu)**：大蔥沾醬油的厚切油豆腐，在韓文社交平台上常被稱為「맥주와 사케를 부르는 바삭한 두부 스테이크」。
-    * 🔗 [토치오 아부라아게 안내](https://niigata-kankou.or.jp/gourmet/303) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%A0%83%E5%B0%BE%E6%B2%B9%E6%8F%9A%E3%81%92)
+    * 🔗 [토치오 아부라아게 안내](https://niigata-kankou.or.jp/feature/aburage/top) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%A0%83%E5%B0%BE%E6%B2%B9%E6%8F%9A%E3%81%92)
 
 ### 3. 近期最夯的景點, 甜點, 美食 (트렌드)
 * **景點**：
@@ -163,18 +163,18 @@
     * 🔗 [다이야와 공식](https://www.koshinoyuki-yamatoya.co.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%B6%8A%E4%B9%83%E9%9B%AA%E6%9C%AC%E8%88%97+%E5%A4%A7%E5%92%8C%E5%B1%8B)
 * **美食**：
   * **서양풍 카츠동 (Western-style Katsudon - 레스토랑 나카타)**：番茄酸甜多蜜醬炸豬排，常出現在韓國年輕人「이색 일본 먹방」清單中。
-    * 🔗 [레스토랑 나카타](https://restaurant-nakata.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3+%E3%83%8A%E3%82%AC%E3%82%BF)
+    * 🔗 [레스토랑 나카타](https://restaurant-nakata.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3+%E3%83%8A%E3%82%AB%E3%82%BF)
 
 ### 4. 在地人的景點, 甜點, 美食 (현지인 로컬 추천)
 * **景點**：
   * **에치고 큐료 공원 (국영 에치고 구릉공원)**：秋季波斯菊與玫瑰花盛開的戶外休閒公園。
-    * 🔗 [구릉공원 공식](https://echigo-park.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%9B%BD%E5%96%B6%E8%B6%8A%E5%BE%8C%E4%丘%E9%99%B5%E5%85%AC%E5%9C%92)
+    * 🔗 [구릉공원 공식](https://echigo-park.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%9B%BD%E5%96%B6%E8%B6%8A%E5%BE%8C%E4%B8%98%E9%99%B5%E5%85%AC%E5%9C%92)
 * **甜點**：
   * **미마츠 (Mimatsu) 슈크림**：長岡車站前日常排隊的高 CP 值平民甜點。
     * 🔗 [미마츠 안내](https://gateausenka.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%BE%8E%E6%9D%BE+%E5%A4%A7%E6%89%8B%E9%80%9A%E5%BA%97)
 * **美食**：
   * **헤기소바 (小嶋屋 코지마야 등)**：布海苔涼蕎麥麵，清爽滑順的在地代表麵食。
-    * 🔗 [나가오카 코지마야](https://www.nagaokakojimaya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%95%B7%E5%B2%A1%E5%B0%8F%E5%B6%8Readme%E5%B1%8B)
+    * 🔗 [나가오카 코지마야](https://www.nagaokakojimaya.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%95%B7%E5%B2%A1%E5%B0%8F%E5%B6%85%E5%B1%8B+%E6%9C%AC%E5%BA%97)
 
 ### 5. 隱藏的景點, 甜點, 美食 (숨은 명소/히든 스팟)
 * **景點**：
@@ -194,7 +194,7 @@
 ### 1. 最著名的景點, 甜點, 美食 (Iconic / Must-Visit)
 * **景點**：
   * **Nagaoka Fireworks Museum (Michi-no-Eki Nagaoka Hanabi-kan)**：Famous on Reddit for its state-of-the-art dome projection showcasing the renowned Nagaoka Grand Fireworks Festival.
-    * 🔗 [Official Website](https://nagaokahanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
+    * 🔗 [Official Website](https://nagaoka-hanabikan.niigata.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%81%93%E3%81%AE%E9%A7%85+%E3%81%AA%E3%81%8C%E3%81%8A%E3%81%8B%E8%8A%B1%E7%81%AB%E9%A4%A8)
 * **甜點**：
   * **Eguchi Dango (Old Traditional House)**：Widely praised by TripAdvisor travelers for authentic matcha and traditional multi-flavor mochi skewers in a historic setting.
     * 🔗 [Official Website](https://e-dango.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%B1%9F%E5%8F%A3%E3%81%A0%E3%82%93%E3%81%94+%E6%9C%AC%E5%BA%97)
@@ -208,10 +208,10 @@
     * 🔗 [City Guide](https://www.city.nagaoka.niigata.jp/kankou/miru/kouen/momiji.html) ｜ 📍 [Google Map](https://maps.google.com/?q=%E8%B6%8A%E8%B7%AF%E3%82%82%E3%81%BF%E3%81%98%E5%9C%92)
 * **甜點**：
   * **Kasei Farm Jersey/Guernsey Milk Soft Cream**：High-butterfat dairy treats praised by Western food bloggers exploring Niigata’s countryside.
-    * 🔗 [Farm Website](https://kaseibokujo.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8A%A0%E5%8B%A2%E7%89%A7%E5%A0%B4+%E3%82%8F%E3%81%97%E3%81%BE%E6%9C%AC%E5%BA%97)
+    * 🔗 [Farm Website](https://kasebokujo.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%8A%A0%E5%8B%A2%E7%89%A7%E5%A0%B4+%E3%82%8F%E3%81%97%E3%81%BE%E6%9C%AC%E5%BA%97)
 * **美食**：
   * **Yoshinogawa Sake Tasting Flight at Johzo Museum**：470-year history, sleek English-friendly interactive panels, and modern tasting flights frequently recommended to international sake lovers.
-    * 🔗 [Johzo Experience Guide](https://yosinogawa.co.jp/johzo/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%85%BF%E8%44%B5)
+    * 🔗 [Johzo Experience Guide](https://yosinogawa.co.jp/johgura/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E5%90%89%E4%B9%83%E5%B7%9D+%E9%86%B8%E8%94%B5)
 
 ### 3. 近期最夯的景點, 甜點, 美食 (Trendy & Up-and-coming)
 * **景點**：
@@ -222,12 +222,12 @@
     * 🔗 [Instagram @yobukodori](https://www.instagram.com/yobukodori_/) ｜ 📍 [Google Map](https://maps.google.com/?q=yobukodori+%E9%95%B7%E5%B2%A1)
 * **美食**：
   * **Nagaoka Western Katsudon (Restaurant Nakata)**：Crispy cutlet layered with rich demi-glace or tangy tomato relish, widely discussed as a fascinating Japanese adaptation of Western food.
-    * 🔗 [Restaurant Nakata Official](https://restaurant-nakata.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3+%E3%83%8A%E3%82%AC%E3%82%BF)
+    * 🔗 [Restaurant Nakata Official](https://restaurant-nakata.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3+%E3%83%8A%E3%82%AB%E3%82%BF)
 
 ### 4. 在地人的景點, 甜點, 美食 (Local Favorites)
 * **景點**：
   * **Fukushimagawa Canal Promenade**：Quiet neighborhood waterway beloved by runners and autumn foliage walkers.
-    * 🔗 [Canal Walk Guide](https://www.city.nagaoka.niigata.jp/kankou/miru/shizen/fukushimagawa.html) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%A6%8F%E5%B3%B6%E6%B1%9F)
+    * 🔗 [Canal Walk Guide](https://niigata-kankou.or.jp/spot/10763) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%A6%8F%E5%B3%B6%E6%B1%9F)
 * **甜點**：
   * **Mimatsu Cream Puffs**：A nostalgic staple for Nagaoka residents picking up quick sweet boxes.
     * 🔗 [Gateau Senka Info](https://gateausenka.jp/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E7%BE%8E%E6%9D%BE+%E5%A4%A7%E6%89%8B%E9%80%9A%E5%BA%97)
@@ -235,7 +235,7 @@
   * **Craft Beer & Sake at Nagaoka Station (Echigo Beer selection)**：Recommended on Reddit r/japanlife as an essential regional craft stop featuring Japan's first microbrewery alongside local ginger dishes.
     * 🔗 [Echigo Beer Official](https://echigobeer.com/) ｜ 📍 [Google Map](https://maps.google.com/?q=%E9%95%B7%E5%B2%A1%E9%A7%85)
   * **Tochio Fried Tofu (Aburaage)**：Super thick, golden crispy tofu cut open and stuffed with green onion and miso, universally recommended as the best beer companion.
-    * 🔗 [Niigata Gourmet Page](https://niigata-kankou.or.jp/gourmet/303) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%A0%83%E5%B0%BE%E6%B2%B9%E6%8F%9A%E3%81%92)
+    * 🔗 [Niigata Gourmet Page](https://niigata-kankou.or.jp/feature/aburage/top) ｜ 📍 [Google Map](https://maps.google.com/?q=%E6%A0%83%E5%B0%BE%E6%B2%B9%E6%8F%9A%E3%81%92)
 
 ### 5. 隱藏的景點, 甜點, 美食 (Hidden Gems)
 * **景點**：
